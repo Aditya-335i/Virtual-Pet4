@@ -102,7 +102,7 @@ function draw() {
   }));
   if(gameState===5){
     dog.addImage(livingroom);
-    dog.scale=1;
+    dog.scale=1
     milkBotltle2.visible=false;
   }
 
